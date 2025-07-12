@@ -1,6 +1,6 @@
 <!-- Header: Animated GitHub Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9c27b0&height=200&section=header&text=Hi%20There!%20I'm%20a%20Fullstack%20Developer%20👋&fontSize=35&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9c27b0&height=200&section=header&text=Yo,%20I%20am%20Prophecy%20a%20Fullstack%20Developer%20👋&fontSize=35&fontColor=ffffff" alt="header" />
 </p>
 
 ---
@@ -43,13 +43,9 @@ const fullstackDev = {
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=THEPROPHECY55&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=THEPROPHECY55&theme=radical&hide_border=true" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEPROPHECY55&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> </p>
 
 ---
-
-## 🐍 GitHub Contribution Snake
 
 <p align="center"> <img src="https://github.com/THEPROPHECY55/THEPROPHECY55/raw/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
 
