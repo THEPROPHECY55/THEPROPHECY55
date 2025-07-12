@@ -13,11 +13,22 @@
 
 🛠️ My technical stack & skills include:
 
-### 🧠 Languages & Technologies (Ordered by Importance)
+### 🧠 Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,html,css,python,java,php,cs,cpp,c,bootstrap,mysql,postgres,mongodb,docker,linux,git,jquery,ajax,sql,ci,redux,express,socketio" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,html,css,python,java,php,cs,cpp,c,bootstrap,mysql,postgres,mongodb,docker,linux,git,jquery,express,socketio" alt="Tech Stack" />
 </p>
+
+```js
+const fullstackDev = {
+  frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'TailwindCSS', 'Bootstrap', 'jQuery', 'UX'],
+  backend: ['Node.js', 'Express', 'PHP', 'Java', 'Python', 'C#', 'C++', 'C'],
+  databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
+  devOps: ['Git', 'Docker', 'Linux', 'CI/CD'],
+  skills: ['Agile PM', 'Reverse Engineering', 'Networking', 'Socket.IO', 'Jira'],
+  misc: ['TypeScript', 'AJAX', 'GitHub Actions'],
+};
+```
 
 ### ⚙️ Tools & Other Skills
 
@@ -34,21 +45,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=THEPROPHECY55&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=THEPROPHECY55&theme=radical&hide_border=true" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEPROPHECY55&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> </p>
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<p align="center"> <img src="https://github.com/THEPROPHECY55/THEPROPHECY55/raw/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
 
 ---
 
