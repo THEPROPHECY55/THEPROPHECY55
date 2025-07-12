@@ -34,7 +34,7 @@ const fullstackDev = {
 
 - 💼 Agile Project Management, Jira
 - 🔄 CI/CD Pipelines
-- 🔧 Reverse Engineering 🧩
+- 🔧 Reverse Engineering
 - 🌐 Networking (TCP/IP, Socket Programming)
 - 🎨 UX Principles
 - 🔍 Debugging, Packet Analysis
