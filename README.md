@@ -75,13 +75,7 @@ const fullstackDev = {
 
 ---
 
-<p align="center">
-  <img src="https://github.com/THEPROPHECY55/THEPROPHECY55/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-<p align="center"> <img src="https://github.com/THEPROPHECY55/THEPROPHECY55/raw/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
+![snake gif](https://github.com/THEPROPHECY55/THEPROPHECY55/blob/output/github-snake-dark.svg)
 
 ---
 
