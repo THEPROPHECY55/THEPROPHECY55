@@ -1,7 +1,13 @@
 <!-- Header: Animated GitHub Profile Banner -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=THEPROPHECY55.THEPROPHECY55" alt="Visitor Count" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9c27b0&height=200&section=header&text=Yo,%20I%20am%20Prophecy%20a%20Fullstack%20Developer%20👋&fontSize=35&fontColor=ffffff" alt="header" />
 </p>
+
+
 
 ---
 
