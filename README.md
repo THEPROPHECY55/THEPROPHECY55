@@ -7,8 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9c27b0&height=200&section=header&text=Yo,%20I%20am%20Prophecy%20a%20Fullstack%20Developer%20👋&fontSize=35&fontColor=ffffff" alt="header" />
 </p>
 
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -81,8 +79,10 @@ const fullstackDev = {
 
 ---
 
-![snake gif](https://github.com/THEPROPHECY55/THEPROPHECY55/blob/output/github-snake-dark.svg)
+<!-- Snake Animation -->
+<div align="center">
 
----
+  ![snake gif](https://github.com/THEPROPHECY55/THEPROPHECY55/blob/output/github-snake-dark.svg)
+</div>
 
 <p align="center"> <a href="https://twitter.com/THEPROPHECY55"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> <a href="https://discord.com/users/1311084737036681279"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> </a> <a href="https://www.buymeacoffee.com/prophecy"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee Badge"/> </a> </p>
